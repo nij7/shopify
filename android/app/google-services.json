@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "27270435814",
+    "project_id": "shopify-9835b",
+    "storage_bucket": "shopify-9835b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27270435814:android:bc6b7e951139424687bc27",
+        "android_client_info": {
+          "package_name": "com.example.onboarding"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-FPApAyhBcylVM01Svq_rRefU5V0jszs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
